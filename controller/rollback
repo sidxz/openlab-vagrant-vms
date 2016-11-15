@@ -1,0 +1,1 @@
+vagrant snapshot pop && vagrant snapshot push && vagrant ssh
